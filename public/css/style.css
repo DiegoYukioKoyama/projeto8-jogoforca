@@ -39,6 +39,19 @@ body {
     font-size: 20px;
 }
 
+.palavra{
+    width: 323px;
+    display: flex;
+    justify-content: space-around;
+    position: absolute;
+    right: 0;
+    bottom: 27px;
+}
+
+.array-palavra {
+    font-size: 50px;
+}
+
 /* Componente Letras */
 .letras {
     width: 840px;
